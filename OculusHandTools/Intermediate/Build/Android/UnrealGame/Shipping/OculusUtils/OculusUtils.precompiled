@@ -1,0 +1,16 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\OculusUtils\\Module.OculusUtils.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\OculusUtils\\OculusUtilsLibrary.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\OculusUtils\\OculusUtilsModule.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\OculusUtils\\Module.OculusUtils.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\OculusUtils\\OculusUtilsLibrary.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Shipping\\OculusUtils\\OculusUtilsModule.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\OculusUtils\\Module.OculusUtils.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\OculusUtils\\OculusUtilsLibrary.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\OculusUtils\\OculusUtilsModule.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\OculusUtils\\Module.OculusUtils.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\OculusUtils\\OculusUtilsLibrary.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Shipping\\OculusUtils\\OculusUtilsModule.cpp.o"
+	]
+}

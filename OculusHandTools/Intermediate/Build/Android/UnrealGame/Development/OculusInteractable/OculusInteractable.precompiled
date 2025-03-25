@@ -1,0 +1,24 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusInteractable\\Module.OculusInteractable.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusInteractable\\AimingActor.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusInteractable\\Interactable.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusInteractable\\InteractableSelector.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusInteractable\\OculusInteractableModule.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusInteractable\\Module.OculusInteractable.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusInteractable\\AimingActor.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusInteractable\\Interactable.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusInteractable\\InteractableSelector.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusInteractable\\OculusInteractableModule.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusInteractable\\Module.OculusInteractable.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusInteractable\\AimingActor.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusInteractable\\Interactable.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusInteractable\\InteractableSelector.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusInteractable\\OculusInteractableModule.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusInteractable\\Module.OculusInteractable.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusInteractable\\AimingActor.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusInteractable\\Interactable.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusInteractable\\InteractableSelector.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusInteractable\\OculusInteractableModule.cpp.o"
+	]
+}

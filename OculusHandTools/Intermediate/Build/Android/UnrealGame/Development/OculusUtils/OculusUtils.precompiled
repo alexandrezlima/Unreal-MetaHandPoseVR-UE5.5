@@ -1,0 +1,16 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusUtils\\Module.OculusUtils.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusUtils\\OculusUtilsLibrary.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusUtils\\OculusUtilsModule.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusUtils\\Module.OculusUtils.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusUtils\\OculusUtilsLibrary.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusUtils\\OculusUtilsModule.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusUtils\\Module.OculusUtils.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusUtils\\OculusUtilsLibrary.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusUtils\\OculusUtilsModule.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusUtils\\Module.OculusUtils.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusUtils\\OculusUtilsLibrary.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusUtils\\OculusUtilsModule.cpp.o"
+	]
+}
